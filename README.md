@@ -2,6 +2,11 @@
 
 # 👋 Hi, I'm Kartik Bhimrao Aher
 
+<img width="1328" height="540" alt="image" src="https://github.com/user-attachments/assets/f0406f66-9675-4042-89ad-5f21fe127fc8" />
+
+
+
+
 <p align="center">
   <a href="https://kartik-ops.lovable.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -26,8 +31,6 @@ I specialize in:
 💡 I transform operational data into **actionable insights** that drive cost savings, efficiency, and better decision-making.
 
 ---
-
-<img width="1328" height="540" alt="image" src="https://github.com/user-attachments/assets/85e3768c-5dde-4068-8f69-dfd18b353ec1" />
 
 <p align="center">
   <a href="https://kartik-ops.lovable.app/">
