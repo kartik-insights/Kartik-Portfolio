@@ -1,9 +1,6 @@
 # Kartik-Portfolio
 
 # 👋 Hi, I'm Kartik Bhimrao Aher
-<img width="1338" height="591" alt="image" src="https://github.com/user-attachments/assets/8603d18d-fbc6-4cdd-a100-5c8ac930b435" />
-
-
 
 <p align="center">
   <a href="https://kartik-ops.lovable.app/">
@@ -30,7 +27,7 @@ I specialize in:
 
 ---
 
-## 🌐 Portfolio Preview
+<img width="1328" height="540" alt="image" src="https://github.com/user-attachments/assets/85e3768c-5dde-4068-8f69-dfd18b353ec1" />
 
 <p align="center">
   <a href="https://kartik-ops.lovable.app/">
